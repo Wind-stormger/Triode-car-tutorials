@@ -1,17 +1,17 @@
 
-> Open this page at [https://wind-stormger.github.io/triode-car_motor_control_1/](https://wind-stormger.github.io/triode-car_motor_control_1/)
+> Open this page at [https://wind-stormger.github.io/triode-car_motor_control_1/](https://wind-stormger.github.io/Triode-car-tutorials/)
 
 ## Tutorials
 
-* [tutorial](/triode-car_motor_control_1/tutorial) [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car_motor_control_1/tutorial)
+* [tutorial](/Triode-car-tutorials/tutorial) [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/Triode-car-tutorials/tutorial)
 
-## Edit this project ![Build status badge](https://github.com/wind-stormger/triode-car_motor_control_1/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/Wind-stormger/Triode-car-tutorials/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/wind-stormger/triode-car_motor_control_1** and click import
+* paste **https://github.com/Wind-stormger/Triode-car-tutorials** and click import
 
 #### Metadata (used for search, rendering)
 
