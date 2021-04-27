@@ -4,12 +4,14 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-triodecar": "github:bpi-steam/pxt-triodecar#v0.0.3"
     },
     "files": [
         "main.ts",
         "README.md",
-        "tutorial.md"
+        "tutorial.md",
+        "_locales/zh-CN/tutorial.md"
     ],
     "testFiles": [
         "test.ts"
