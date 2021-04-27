@@ -1,14 +1,9 @@
 
 > Open this page at [https://wind-stormger.github.io/triode-car_motor_control_1/](https://wind-stormger.github.io/triode-car_motor_control_1/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/wind-stormger/triode-car_motor_control_1** and import
+* [tutorial](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/wind-stormger/triode-car_motor_control_1/workflows/MakeCode/badge.svg)
 
