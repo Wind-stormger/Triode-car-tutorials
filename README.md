@@ -1,5 +1,5 @@
 
-> Open this page at [https://wind-stormger.github.io/triode-car_motor_control_1/](https://wind-stormger.github.io/Triode-car-tutorials/)
+> Open this page at [https://wind-stormger.github.io/Triode-car-tutorials/](https://wind-stormger.github.io/Triode-car-tutorials/)
 
 ## Tutorials
 
