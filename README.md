@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/triode-car_motor_control_1/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/wind-stormger/triode-car_motor_control_1/workflows/MakeCode/badge.svg)
 
