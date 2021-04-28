@@ -12,7 +12,9 @@
         "main.ts",
         "README.md",
         "tutorial.md",
-        "_locales/zh-CN/tutorial.md"
+        "_locales/zh-CN/tutorial.md",
+        "tutorial_2.md",
+        "_locales/zh-CN/tutorial_2.md"
     ],
     "testFiles": [
         "test.ts"

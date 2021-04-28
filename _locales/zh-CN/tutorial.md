@@ -4,9 +4,7 @@
 
 本节教程将指导学员在MakeCode中应用TriodeCar扩展积木来构建程序，使用micro:bit的按钮来控制TriodeCar左右两个电机的启停，控制TriodeCar行进方向。
 
-在此教程以外进行MakeCode编程需要导入TriodeCar扩展积木，链接：https://github.com/Q-car/pxt-triodecar
-
-点击确定开始教程。
+在此教程以外进行MakeCode编程时如果需要使用TriodeCar扩展积木，则可将此链接导入：https://github.com/Q-car/pxt-triodecar
 
 ## step 2 
 
