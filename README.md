@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial zh-CN](/Triode-car-tutorials/_locales/zh-CN/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/Triode-car-tutorials/tutorial)
+* [tutorial zh-CN](/Triode-car-tutorials/tree/master/_locales/zh-CN/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/Triode-car-tutorials/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/Wind-stormger/Triode-car-tutorials/workflows/MakeCode/badge.svg)
 
