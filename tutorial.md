@@ -1,6 +1,6 @@
 # 教程1：使用micro:bit按钮控制电机
 
-## step 1 @showhint
+## step 1 @unplugged
 
 本节教程将指导学员在MakeCode中应用TriodeCar扩展积木来构建程序，使用micro:bit的按钮来控制TriodeCar左右两个电机的启停，控制TriodeCar行进方向。
 
