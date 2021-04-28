@@ -6,7 +6,7 @@
 
 在此教程以外进行MakeCode编程需要导入TriodeCar扩展积木，链接：https://github.com/Q-car/pxt-triodecar
 
-点击确定开始本教程。
+点击确定开始教程。
 
 ## step 2 
 
