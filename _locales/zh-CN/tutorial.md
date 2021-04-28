@@ -82,7 +82,7 @@ input.onButtonPressed(Button.AB, function () {
 
 ## step 7
 
-通过USB连接micro:bit,点击|Download|将程序下载进micro:bit。
+通过USB连接micro:bit,点击``|Download|``将程序下载进micro:bit。
 
 将micro:bit插上TriodeCar，按动控制按钮使TriodeCar切换到到由micro:bit控制，即可用按钮控制左右两侧的电机。
 
