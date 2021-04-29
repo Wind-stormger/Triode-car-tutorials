@@ -9,16 +9,13 @@
         "pxt-triodecar": "github:bpi-steam/pxt-triodecar#v0.0.3"
     },
     "files": [
-        "main.ts",
         "README.md",
         "tutorial.md",
         "_locales/zh-CN/tutorial.md",
         "tutorial_2.md",
         "_locales/zh-CN/tutorial_2.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "supportedTargets": [
         "microbit"
     ],
