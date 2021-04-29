@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial zh-CN](/Triode-car-tutorials/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/Triode-car-tutorials/tutorial)
+* [tutorial zh-CN](/Triode-car-tutorials/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial)
 * [tutorial_2 zh-CN](/Triode-car-tutorials/tutorial_2) | [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_2)
 
 
