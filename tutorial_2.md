@@ -2,7 +2,7 @@
 
 ## step 1 @unplugged
 
-本节教程将指导学员应用扩展积木来控制TriodeCar左右俩电机的转速，并设计一套程序使人可以通过按钮来控制转速增减。
+本节教程将指导学员应用扩展积木来控制TriodeCar左右俩电机的转速，并设计一套程序通过按钮来控制转速增减。
 
 ## step 2
 
@@ -106,7 +106,7 @@ basic.forever(function () {
 
 相关会应用的积木都在``||logic:逻辑||``中。
 
-从从``||variables:变量||`` 中将``||variables:将speed设为0||``放入``||logic:如果||``内。
+从``||variables:变量||`` 中将``||variables:将speed设为0||``放入``||logic:如果||``内。
 
 ```blocks
 basic.forever(function () {
