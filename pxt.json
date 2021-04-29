@@ -4,7 +4,6 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
         "pxt-triodecar": "github:bpi-steam/pxt-triodecar#v0.0.3"
     },
