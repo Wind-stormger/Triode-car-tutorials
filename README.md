@@ -1,7 +1,5 @@
 
-> Open this page at [https://wind-stormger.github.io/Triode-car-tutorials/](https://wind-stormger.github.io/Triode-car-tutorials/)
-
-## Tutorials
+# Tutorials
 
 Click "Start" to enter the tutorial
 
