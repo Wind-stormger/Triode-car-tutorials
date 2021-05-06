@@ -4,8 +4,8 @@
 ## Tutorials
 
 * [Tutorial 1：Use micro:bit buttons control motor zh-CN](/Triode-car-tutorials/tutorial) → [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial)
-* [tutorial 2：Adjust the motor speed zh-CN](/Triode-car-tutorials/tutorial_2) → [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_2)
-* [tutorial 3：Collecting voltage analog signal of line follower circuit zh-CN](/Triode-car-tutorials/tutorial_3) → [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_3)
+* [Tutorial 2：Adjust the motor speed zh-CN](/Triode-car-tutorials/tutorial_2) → [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_2)
+* [Tutorial 3：Collecting voltage analog signal of line follower circuit zh-CN](/Triode-car-tutorials/tutorial_3) → [start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_3)
 
 ## Edit this project ![Build status badge](https://github.com/Wind-stormger/Triode-car-tutorials/workflows/MakeCode/badge.svg)
 
