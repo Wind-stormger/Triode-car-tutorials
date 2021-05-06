@@ -85,3 +85,5 @@ basic.forever(function () {
 现在每间隔100ms，micro:bit会将采集到的巡线检测电路的两路电压模拟信号转化为1024级精度的电压模拟值，再通过USB串口传输到PC终端。
 
 将micro:bit插入TriodeCar，保持micro:bit与PC终端的连接，点击显示控制台，即可在makecode编辑器里查看USB串口传来的数据。
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
