@@ -28,9 +28,9 @@
         "config": {
             "microbit-dal": {
                 "bluetooth": {
-                    "open": 0,
-                    "whitelist": 1,
-                    "security_level": "SECURITY_MODE_ENCRYPTION_WITH_MITM"
+                    "open": 1,
+                    "whitelist": 0,
+                    "security_level": null
                 }
             }
         }
