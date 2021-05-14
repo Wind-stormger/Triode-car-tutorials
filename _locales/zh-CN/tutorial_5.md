@@ -1,3 +1,7 @@
+```package
+-radio
+bluetooth
+```
 # 教程5：蓝牙控制
 
 ## step 1 @unplugged
@@ -16,8 +20,6 @@ bluetooth.onBluetoothConnected(function () {
 })
 ```
 
-```package
-bluetooth
-```
+
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
