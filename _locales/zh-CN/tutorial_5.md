@@ -17,8 +17,8 @@ bluetooth.onBluetoothConnected(function () {
 ```
 
 ```package
--radio
 bluetooth
+-radio
 ```
 
 
