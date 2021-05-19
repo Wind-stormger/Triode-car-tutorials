@@ -9,6 +9,6 @@ Click "Start" to enter the tutorial
 * [Tutorial 4：Control the motor through radio by two micro:bits zh-CN](/Triode-car-tutorials/tutorial_4) → [Start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_4)
 * [Tutorial 5：Bluetooth control zh-CN](/Triode-car-tutorials/tutorial_5) → [Start](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_5)
 
-[简体中文](/Triode-car-tutorials/blob/master/_locales/zh-CN/README.md)
+[简体中文](/Triode-car-tutorials/blob/master/zh-CN/README.md)
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
