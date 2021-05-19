@@ -6,3 +6,4 @@ theme: jekyll-theme-hacker
 include:
   - assets
   - README.md
+  - /_locales
