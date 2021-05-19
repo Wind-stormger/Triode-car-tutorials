@@ -18,7 +18,8 @@
         "tutorial_4.md",
         "_locales/zh-CN/tutorial_4.md",
         "tutorial_5.md",
-        "_locales/zh-CN/tutorial_5.md"
+        "_locales/zh-CN/tutorial_5.md",
+        "_locales/zh-CN/README.md"
     ],
     "testFiles": [],
     "supportedTargets": [
