@@ -1,7 +1,6 @@
+# 教程
 
-# Tutorials
-
-Click "Start" to enter the tutorial
+点击开始进入教程
 
 * [教程 1：使用micro:bit按钮控制电机 zh-CN](/Triode-car-tutorials/tutorial) → [开始](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial)
 * [教程 2：调整电机转速 zh-CN](/Triode-car-tutorials/tutorial_2) → [开始](https://makecode.microbit.org/#tutorial:github:wind-stormger/triode-car-tutorials/tutorial_2)
