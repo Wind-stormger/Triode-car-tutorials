@@ -22,6 +22,10 @@
         "_locales/zh-CN/README.md"
     ],
     "testFiles": [],
+    "targetVersions": {
+        "target": "3.1.93",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
