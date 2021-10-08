@@ -1,6 +1,6 @@
 {
     "name": "Triode-car's tutorials",
-    "version": "0.0.28",
+    "version": "0.0.29",
     "description": "",
     "dependencies": {
         "core": "*",
