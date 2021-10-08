@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "pxt-triodecar": "github:bpi-steam/pxt-triodecar#v0.0.7"
+        "pxt-triodecar": "github:bpi-steam/pxt-triodecar#v0.0.7",
+        "bluetooth": "*"
     },
     "files": [
         "README.md",
