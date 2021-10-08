@@ -1,3 +1,7 @@
+```package
+bluetooth
+```
+
 # 教程5：蓝牙控制
 
 ## step 1 @unplugged
@@ -9,10 +13,6 @@
 从``||Bluetooth:蓝牙||`` 中将``||Bluetooth:当蓝牙连接时||``积木放置到编辑区。
 
 将``||basic:显示图标||``积木置入``||Bluetooth:当蓝牙连接时||``中。
-
-```package
-bluetooth
-```
 
 ```blocks
 bluetooth.onBluetoothConnected(function () {
