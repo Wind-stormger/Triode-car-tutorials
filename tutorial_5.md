@@ -14,7 +14,10 @@ bluetooth
 
 ```blocks
 bluetooth.onBluetoothConnected(function () {
-
+    
+})
+basic.forever(function () {
+	
 })
 ```
 
