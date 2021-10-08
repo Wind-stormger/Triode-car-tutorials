@@ -10,6 +10,10 @@
 
 将``||basic:显示图标||``积木置入``||Bluetooth:当蓝牙连接时||``中。
 
+```package
+bluetooth
+```
+
 ```blocks
 bluetooth.onBluetoothConnected(function () {
     basic.showIcon(IconNames.Heart)

@@ -10,10 +10,13 @@
 
 将``||basic:显示图标||``积木置入``||Bluetooth:当蓝牙连接时||``中。
 
+```package
+bluetooth
+```
+
 ```blocks
 bluetooth.onBluetoothConnected(function () {
     basic.showIcon(IconNames.Heart)
 })
 ```
-
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
